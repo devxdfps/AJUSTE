@@ -1,0 +1,315 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Games]
+"FpsAll"=dword:00000001
+"FpsStatusGames"=dword:0000000a
+"FpsStatusGamesAll"=dword:00000004
+"GameFluidity"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces]
+"TcpAckFrequency"=dword:00000001
+"TCPNoDelay"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces]
+"TcpDelAckTicks"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Power]
+"HiberbootEnabled"=dword:00000000
+"SleepStudyDisabled"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power]
+"HibernateEnabled"=dword:00000000
+"SleepReliabilityDetailedDiagnostics"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Games]
+"FpsAll"=dword:00000001
+"FpsStatusGames"=dword:0000000a
+"FpsStatusGamesAll"=dword:00000004
+"GameFluidity"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces]
+"TcpAckFrequency"=dword:00000001
+"TCPNoDelay"=dword:00000001
+"TcpDelAckTicks"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Power]
+"HiberbootEnabled"=dword:00000000
+"SleepStudyDisabled"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power]
+"HibernateEnabled"=dword:00000000
+"SleepReliabilityDetailedDiagnostics"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+"NetworkThrottlingIndex"=dword:ffffffff
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Low Latency]
+"Affinity"=dword:00000000
+"Background Only"="False"
+"BackgroundPriority"=dword:00000000
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000008
+"Priority"=dword:00000002
+"Scheduling Category"="Medium"
+"SFIO Priority"="High"
+"Latency Sensitive"="True"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games]
+"Affinity"=dword:00000000
+"Background Only"="False"
+"BackgroundPriority"=dword:00000000
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000012
+"Priority"=dword:00000002
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+"Latency Sensitive"="True"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\PriorityControl]
+"Win32PrioritySeparation"=dword:00000026
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\DeviceGuard]
+"EnableVirtualizationBasedSecurity"=dword:00000000
+"HVCIMATRequired"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\kernel]
+"DisableExceptionChainValidation"=dword:00000001
+"KernelSEHOPEnabled"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"EnableCfg"=dword:00000000
+"FeatureSettings"=dword:00000001
+"FeatureSettingsOverride"=dword:00000003
+"FeatureSettingsOverrideMask"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager]
+"ProtectionMode"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Games]
+"FpsAll"=dword:00000001
+"FpsStatusGames"=dword:0000000a
+"FpsStatusGamesAll"=dword:00000004
+"GameFluidity"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces]
+"TcpAckFrequency"=dword:00000001
+"TCPNoDelay"=dword:00000001
+"TcpDelAckTicks"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Power]
+"HiberbootEnabled"=dword:00000000
+"SleepStudyDisabled"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power]
+"HibernateEnabled"=dword:00000000
+"SleepReliabilityDetailedDiagnostics"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+"NetworkThrottlingIndex"=dword:ffffffff
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Low Latency]
+"Affinity"=dword:00000000
+"Background Only"="False"
+"BackgroundPriority"=dword:00000000
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000008
+"Priority"=dword:00000002
+"Scheduling Category"="Medium"
+"SFIO Priority"="High"
+"Latency Sensitive"="True"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games]
+"Affinity"=dword:00000000
+"Background Only"="False"
+"BackgroundPriority"=dword:00000000
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000012
+"Priority"=dword:00000002
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+"Latency Sensitive"="True"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\PriorityControl]
+"Win32PrioritySeparation"=dword:00000026
+"IRQ8Priority"=dword:00000001
+"IRQ16Priority"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl]
+"IRQ8Priority"=dword:00000001
+"IRQ16Priority"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"LargeSystemCache"=dword:00000001
+"DisablePagingExecutive"=dword:00000001
+"MoveImages"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers]
+"DpiMapIommuContiguous"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+"SvcHostSplitThresholdInKB"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters]
+"EnablePrefetcher"=dword:00000000
+"EnableSuperfetch"=dword:00000000
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"AutoEndTasks"="1"
+"HungAppTimeout"="1000"
+"WaitToKillAppTimeout"="2000"
+"LowLevelHooksTimeout"="1000"
+"MenuShowDelay"="0"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+"WaitToKillServiceTimeout"="2000"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Reliability]
+"TimeStampInterval"=dword:00000001
+"IoPriority"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\csrss.exe\PerfOptions]
+"CpuPriorityClass"=dword:00000004
+"IoPriority"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DXGKrnl]
+"MonitorLatencyTolerance"=dword:00000001
+"MonitorRefreshLatencyTolerance"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power]
+"ExitLatency"=dword:00000001
+"ExitLatencyCheckEnabled"=dword:00000001
+"Latency"=dword:00000001
+"LatencyToleranceDefault"=dword:00000001
+"LatencyToleranceFSVP"=dword:00000001
+"LatencyTolerancePerfOverride"=dword:00000001
+"LatencyToleranceScreenOffIR"=dword:00000001
+"LatencyToleranceVSyncEnabled"=dword:00000001
+
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Games]
+"FpsAll"=dword:00000001
+"FpsStatusGames"=dword:0000000a
+"FpsStatusGamesAll"=dword:00000004
+"GameFluidity"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces]
+"TcpAckFrequency"=dword:00000001
+"TCPNoDelay"=dword:00000001
+"TcpDelAckTicks"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Power]
+"HiberbootEnabled"=dword:00000000
+"SleepStudyDisabled"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power]
+"HibernateEnabled"=dword:00000000
+"SleepReliabilityDetailedDiagnostics"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+"NetworkThrottlingIndex"=dword:ffffffff
+"SystemResponsiveness"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Low Latency]
+"Affinity"=dword:00000000
+"Background Only"="False"
+"BackgroundPriority"=dword:00000000
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000008
+"Priority"=dword:00000002
+"Scheduling Category"="Medium"
+"SFIO Priority"="High"
+"Latency Sensitive"="True"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games]
+"Affinity"=dword:00000000
+"Background Only"="False"
+"BackgroundPriority"=dword:00000000
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000012
+"Priority"=dword:00000002
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+"Latency Sensitive"="True"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\PriorityControl]
+"Win32PrioritySeparation"=dword:00000026
+"IRQ8Priority"=dword:00000001
+"IRQ16Priority"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl]
+"IRQ8Priority"=dword:00000001
+"IRQ16Priority"=dword:00000002
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"LargeSystemCache"=dword:00000001
+"DisablePagingExecutive"=dword:00000001
+"MoveImages"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers]
+"DpiMapIommuContiguous"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+"SvcHostSplitThresholdInKB"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters]
+"EnablePrefetcher"=dword:00000000
+"EnableSuperfetch"=dword:00000000
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"AutoEndTasks"="1"
+"HungAppTimeout"="1000"
+"WaitToKillAppTimeout"="2000"
+"LowLevelHooksTimeout"="1000"
+"MenuShowDelay"="0"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+"WaitToKillServiceTimeout"="2000"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Reliability]
+"TimeStampInterval"=dword:00000001
+"IoPriority"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\csrss.exe\PerfOptions]
+"CpuPriorityClass"=dword:00000004
+"IoPriority"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DXGKrnl]
+"MonitorLatencyTolerance"=dword:00000001
+"MonitorRefreshLatencyTolerance"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power]
+"ExitLatency"=dword:00000001
+"ExitLatencyCheckEnabled"=dword:00000001
+"Latency"=dword:00000001
+"LatencyToleranceDefault"=dword:00000001
+"LatencyToleranceFSVP"=dword:00000001
+"LatencyTolerancePerfOverride"=dword:00000001
+"LatencyToleranceScreenOffIR"=dword:00000001
+"LatencyToleranceVSyncEnabled"=dword:00000001
+"RtlCapabilityCheckLatency"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Power]
+"DefaultD3TransitionLatencyIdleLongTime"=dword:00000001
+"DefaultD3TransitionLatencyIdleMonitorOff"=dword:00000001
+"DefaultD3TransitionLatencyIdleNoContext"=dword:00000001
+"DefaultD3TransitionLatencyIdleShortTime"=dword:00000001
+"DefaultD3TransitionLatencyIdleVeryLongTime"=dword:00000001
+"DefaultLatencyToleranceIdle0"=dword:00000001
+"DefaultLatencyToleranceIdle0MonitorOff"=dword:00000001
+"DefaultLatencyToleranceIdle1"=dword:00000001
+"DefaultLatencyToleranceIdle1MonitorOff"=dword:00000001
+"DefaultLatencyToleranceMemory"=dword:00000001
+"DefaultLatencyToleranceNoContext"=dword:00000001
+"DefaultLatencyToleranceNoContextMonitorOff"=dword:00000001
+"DefaultLatencyToleranceOther"=dword:00000001
+"DefaultLatencyToleranceTimerPeriod"=dword:00000001
+"DefaultMemoryRefreshLatencyToleranceActivelyUsed"=dword:00000001
+"DefaultMemoryRefreshLatencyToleranceMonitorOff"=dword:00000001
+"DefaultMemoryRefreshLatencyToleranceNoContext"=dword:00000001
+"Latency"=dword:00000001
+"MaxIAverageGraphicsLatencyInOneBucket"=dword:00000001
+"MiracastPerfTrackGraphicsLatency"=dword:00000001
+"MonitorLatencyTolerance"=dword:00000001
+"MonitorRefreshLatencyTolerance"=dword:00000001
+"TransitionLatency"=dword:00000001
